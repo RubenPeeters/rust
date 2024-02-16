@@ -28,3 +28,16 @@ $ cargo run
 Hello, world!
 
 ```
+
+### Check if compiles
+
+```bash
+$ cargo check
+   Checking hello_cargo v0.1.0 (file:///projects/hello_cargo)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.32 secs
+
+```
+
+---
+
+source: https://doc.rust-lang.org/book/ch01-03-hello-cargo.html
